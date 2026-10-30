@@ -74,24 +74,24 @@ Objetivo: [tirar uma ideia do papel].
 
 ## Minha entrega
 
-Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
-
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+<img width="976" height="598" alt="image" src="https://github.com/user-attachments/assets/62e472ab-746b-487d-a634-135515c6796e" />
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="958" height="427" alt="image" src="https://github.com/user-attachments/assets/bf3e61ad-4020-45b2-97ef-afa584cc39f6" />
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="961" height="481" alt="image" src="https://github.com/user-attachments/assets/ffd96d6b-aee1-4503-bac8-38f8554900d7" />
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="946" height="384" alt="image" src="https://github.com/user-attachments/assets/5946511b-ebfa-4691-8928-ef62c5c30dfe" />
+
+> Nota: Nesse como o modelo que eu estava usando no Antigravity (Sonnet 5.5 - Médio) não tinha capacidade de ler arquivos .HTML. Eu mudei pro modelo do Gemini.
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Foi muito legal por colaborar com mais este conteúdo para a DIO.
